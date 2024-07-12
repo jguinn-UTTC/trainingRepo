@@ -1,11 +1,11 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_name: 'JG trainging Repo'
+site_description: 'JG Training Repo'
+site_author: J Guinn
+site_url: https://cu-esiil.github.io/jguinn-UTTC/trainingRepo
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: JG training Repo
+repo_url: https://github.com/jguinn-UTTC/trainingRepo/
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
